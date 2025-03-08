@@ -2,11 +2,6 @@
 
 Ushbu repozitoriyda Vite yordamida yaratilgan loyiha mavjud. Vite - bu veb loyihalar uchun tezroq va samaraliroq ishlab chiqish tajribasini taqdim etuvchi zamonaviy frontend build vositasi.
 
-
-- ⚡️ Chaqmoq tezligida server ishga tushirish
-- ⚡️ Tezkor modul almashtirish (HMR)
-- ⚡️ Haqiqiy on-demand kompilatsiya
-
 ## Loyiha sozlamalari
 
 ### Talablar
