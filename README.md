@@ -52,8 +52,6 @@ vite-loyiha/
 └── README.md           # Loyiha hujjatlari
 ```
 
-## Ishlab chiqish jarayoni
-
 
 ```bash
 npm install
